@@ -40,5 +40,6 @@ www.yw1132.com#http://yw55526.com/
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 
 ## License
-
+www.yw1132.com
+http://yw55526.com/
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
