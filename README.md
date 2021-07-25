@@ -5,7 +5,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 Build OpenWrt using GitHub Actions
-www.yw1132.comhttp://yw55526.com/
+www.yw1132.com#http://yw55526.com/
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## Usage
